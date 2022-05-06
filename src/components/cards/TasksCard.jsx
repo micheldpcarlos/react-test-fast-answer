@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function TasksCard(props) {
+export default function TasksCard() {
   return (
     <div className="card">
       <div className="card-header">Upcoming Tasks</div>
